@@ -74,5 +74,3 @@ Provides functionality to update and manage transport trips.
 
 ---
 
-## Project Structure
-
